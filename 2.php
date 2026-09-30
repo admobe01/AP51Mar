@@ -1,6 +1,6 @@
 <?php 
 
-$numeroConvertir = rand(1,10);
+numeroConvertir = rand(1,10);
 
 function numRomano ($a){
     if($a == 1){
